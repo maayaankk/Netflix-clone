@@ -1,4 +1,5 @@
 # Netflix-clone
+This is the netflix clone made using ReactJs, Materi-UI, Firebase
 #Link to Project
 https://chillflix-9afab.web.app/
 # How to create a React app
